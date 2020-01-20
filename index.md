@@ -1,10 +1,10 @@
+## Research | Teaching | General Audience | Resume
+
+
 ## Manon Berriche
 
-I am a PhD candidate working at the médialab of Sciences Po Paris and at the Center for Research and Interdisciplinarity. The goal of my thesis is to better understand the impact of "fake news" and how they are received and interpreted by people in different contexts of communication. To do so, I propose to articulate approaches from both media studies and cognitive psychology.
+I am a PhD candidate working at the médialab of Sciences Po Paris and at the Center for Research and Interdisciplinarity. The goal of my thesis is to better understand the impact of "fake news". To do so, I propose to articulate approaches from both media studies and cognitive psychology.
 
-## Index
-
-Research | Teaching | General Audience | Resume
 
 
 
