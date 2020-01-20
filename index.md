@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Manon Berriche
+
+I am a PhD candidate working at the médialab of Sciences Po Paris and at the Center for Research and Interdisciplinarity. The goal of my thesis is to better understand the impact of "fake news" and how they are received and interpreted by people in different contexts of communication. To do so, I propose to articulate approaches from both media studies and cognitive psychology.
+
+## Index
+
+Research | Teaching | General Audience | Resume
+
+
+
 
 You can use the [editor on GitHub](https://github.com/MBerriche/manonberriche.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
