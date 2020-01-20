@@ -1,10 +1,10 @@
 
-Research | Teaching | General Audience | Resume
+[Research] | [Teaching] | [General Audience] | [Resume]
 
 
 ## Manon Berriche
 
-I am a PhD candidate working at the médialab of Sciences Po Paris and at the Center for Research and Interdisciplinarity. The goal of my thesis is to better understand the impact of "fake news". To do so, I propose to articulate approaches from both media studies and cognitive psychology.
+I am a candidate working at the médialab of Sciences Po Paris and at the Center for Research and Interdisciplinarity. The goal of my thesis is to better understand the impact of "fake news". To do so, I propose to articulate approaches from both media studies and cognitive psychology.
 
 
 ### Contact
@@ -13,7 +13,7 @@ Email: manon.berriche@sciencespo.fr
 Twitter: @berriche_manon
 
 
-You can use the [editor on GitHub](https://github.com/MBerriche/manonberriche.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/MBerriche/manonberriche.github.io/edit/master/index.md) to maintain and pre the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
