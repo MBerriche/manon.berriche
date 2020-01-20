@@ -9,6 +9,7 @@ I am a PhD candidate working at the médialab of Sciences Po Paris and at the Ce
 
 ### Contact
 Email: manon.berriche@sciencespo.fr
+
 Twitter: @berriche_manon
 
 
